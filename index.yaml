@@ -2,7 +2,7 @@
 # https://github.com/srid/emanote/blob/master/default/index.yaml
 
 page:
-  siteTitle: Emanote Template
+  siteTitle: Haskell Pedagogic Ladder
 
 template:
   theme: red

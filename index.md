@@ -1,5 +1,6 @@
-# Emanote Template
+# Haskell Pedagogic Ladder
 
-A Git repo for users to get started with [Emanote], with GitHub Pages deployment. See [[README|README]].
+A pedagogic ladder for the Haskell programming language.
 
-[Emanote]: https://note.ema.srid.ca/
+https://jabrena.github.io/functional-rosetta-stone/roadmap.pdf
+
