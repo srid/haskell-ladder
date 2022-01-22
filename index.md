@@ -2,5 +2,7 @@
 
 A pedagogic ladder for the Haskell programming language.
 
-https://jabrena.github.io/functional-rosetta-stone/roadmap.pdf
+Based on https://jabrena.github.io/functional-rosetta-stone/roadmap.pdf
+
+**NOTHING HERE, MOVE ALONG** .. or view https://github.com/srid/haskell-ladder
 
