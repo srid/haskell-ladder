@@ -8,7 +8,7 @@ Based on https://jabrena.github.io/functional-rosetta-stone/roadmap.pdf
 
 ## Meta
 
-Everything is empty, but see [[HOAS]] for example content.
+Everything is empty, but see [[HOAS]] for example content. ==Want to contribute?== Clone the git repo and run `nix run`, and then open the project in [Visual Studio Code](https://emanote.srid.ca/resources/vscode). Questions? Ask [here](https://funprog.zulipchat.com/#narrow/stream/201385-Haskell/topic/Haskell.20Pedagogic.20Ladder)!
 
 ### Tasks
 
