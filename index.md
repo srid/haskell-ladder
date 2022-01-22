@@ -13,5 +13,3 @@ Everything is empty, but see [[HOAS]] for example content.
 ### Tasks
 
 - [ ] Get content from https://www.srid.ca/haskell-foundational
-
-
